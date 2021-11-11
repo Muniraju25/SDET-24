@@ -7,5 +7,6 @@ public class Main {
     public void disp()
     {
     	System.out.println("How are u");
+    	System.out.println("hi");
     }
 } 
