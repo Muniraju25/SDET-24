@@ -16,8 +16,17 @@ public class Demo {
 	   System.out.println("conflict 2");
 
 	   System.out.println("this is conflict");
+
+	   
+	   System.out.println("then");
+
 	   System.out.println("conflict resolved");
 	   
 	   System.out.println("now");
+	   
+	   System.out.println("pull request");
+	   
+	   
+
    }
 }
