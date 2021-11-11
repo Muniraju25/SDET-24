@@ -12,6 +12,10 @@ public class Demo {
 	   
 	   System.out.println("user 2 third commit");
 	   
+
 	   System.out.println("conflict 2");
+
+	   System.out.println("this is conflict");
+	   System.out.println("conflict resolved");
    }
 }
