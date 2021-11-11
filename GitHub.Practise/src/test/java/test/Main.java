@@ -8,5 +8,7 @@ public class Main {
     {
     	System.out.println("How are u");
     	System.out.println("hi");
+    	
+    	System.out.println("mava");
     }
 } 
