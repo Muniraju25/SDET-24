@@ -17,5 +17,7 @@ public class Demo {
 
 	   System.out.println("this is conflict");
 	   System.out.println("conflict resolved");
+	   
+	   System.out.println("now");
    }
 }
