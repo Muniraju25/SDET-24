@@ -7,5 +7,7 @@ public class Deve {
    public void disp()
    {
 	   System.out.println("Hello");
+	   
+	   System.out.println("Haha");
    }
 }
