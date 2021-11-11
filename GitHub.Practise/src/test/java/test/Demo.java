@@ -9,5 +9,7 @@ public class Demo {
 	   System.out.println("User 2 commit");
 	   
 	   System.out.println("user 2 second commit");
+	   
+	   System.out.println("user 2 third commit");
    }
 }
