@@ -7,5 +7,7 @@ public class Demo {
    public void demo()
    {
 	   System.out.println("User 2 commit");
+	   
+	   System.out.println("user 2 second commit");
    }
 }
