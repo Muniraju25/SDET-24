@@ -11,5 +11,7 @@ public class Demo {
 	   System.out.println("user 2 second commit");
 	   
 	   System.out.println("user 2 third commit");
+	   
+	   System.out.println("conflict 2");
    }
 }
