@@ -23,6 +23,10 @@ public class Demo {
 	   System.out.println("conflict resolved");
 	   
 	   System.out.println("now");
+	   
+	   System.out.println("pull request");
+	   
+	   
 
    }
 }
