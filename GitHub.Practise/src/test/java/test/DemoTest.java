@@ -2,9 +2,9 @@ package test;
 
 import org.testng.annotations.Test;
 
-public class Demo {
+public class DemoTest {
    @Test
-   public void demo()
+   public void demoTest()
    {
 	   System.out.println("User 2 commit");
 	   

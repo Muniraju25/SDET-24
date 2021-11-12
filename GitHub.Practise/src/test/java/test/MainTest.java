@@ -2,9 +2,9 @@ package test;
 
 import org.testng.annotations.Test;
 
-public class Main {
+public class MainTest {
     @Test
-    public void disp()
+    public void dispTest()
     {
     	System.out.println("How are u");
     	System.out.println("hi");
