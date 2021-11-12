@@ -6,7 +6,7 @@ public class DemoTest {
    @Test
    public void demoTest()
    {
-	   System.out.println("User 2 commit");
+	   System.out.println("SMOKE");
 	   
 	   System.out.println("user 2 second commit");
 	   

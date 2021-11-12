@@ -6,7 +6,7 @@ public class MainTest {
     @Test
     public void dispTest()
     {
-    	System.out.println("How are u");
+    	System.out.println("SMOKE");
     	System.out.println("hi");
     	
 
